@@ -1,0 +1,18 @@
+# --- .NET API ---
+bin/
+obj/
+*.log
+*.user
+*.rsuser
+.vscode/
+packages/
+
+# --- Angular UI ---
+/dist/
+/out-tsc/
+/node_modules/
+src/environments/*.ts
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.idea/
